@@ -34,11 +34,11 @@ public class frmLogin extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/iconos/usuario.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/usuario.png"))); // NOI18N
         jLabel1.setText("jLabel1");
         jLabel1.setName(""); // NOI18N
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/iconos/contrasenaa.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/login/contrasenaa.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         txtContrasena.addKeyListener(new java.awt.event.KeyAdapter() {
